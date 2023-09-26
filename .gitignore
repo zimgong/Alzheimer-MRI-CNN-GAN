@@ -1,0 +1,10 @@
+/.vscode
+/archive
+/chest_xray
+/gan_pic
+/logs
+/Results
+/history
+*.zip
+*.png
+*.doc
